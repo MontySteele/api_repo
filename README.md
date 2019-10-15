@@ -28,3 +28,7 @@ The API will return a JSON dictionary formatted as:
 { 
 <YOUR_COMMENT_HERE> : < A string containing the estimated number of likes here > 
 }
+
+### Warning ###
+
+Currently this API only discriminates between zero-like comments nonzero-like comments. It can filter out spam but is not yet equipped with a second model that is trained to provide numerical predictions of the comment's number of likes. Stay tuned!
