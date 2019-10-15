@@ -26,5 +26,5 @@ To sent an api call, send an html request using the following format: http://<Yo
 
 The API will return a JSON dictionary formatted as:
 { 
-<YOUR_COMMENT_HERE> : <A string containing the estimated number of likes here> 
+<YOUR_COMMENT_HERE> : < A string containing the estimated number of likes here > 
 }
