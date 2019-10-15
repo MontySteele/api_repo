@@ -25,4 +25,6 @@ http://<Your_IP_address>:8000
 To sent an api call, send an html request using the following format: http://<Your_IP_address>:8000/comment/api/?comment=<YOUR_COMMENT_HERE>
 
 The API will return a JSON dictionary formatted as:
-{ <YOUR_COMMENT_HERE> : <A string containing the estimated number of likes here> }
+{ 
+<YOUR_COMMENT_HERE> : <A string containing the estimated number of likes here> 
+}
